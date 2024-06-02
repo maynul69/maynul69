@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maynul Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maynul69&label=Profile%20views&color=0e75b6&style=flat" alt="maynul69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maynul69" alt="maynul69" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 Currently learning **Next Js**
 
 - 💬 Ask me about **react , Javascript, Tailwind**
 
